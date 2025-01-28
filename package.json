@@ -1,0 +1,15 @@
+{
+  "name": "video-multiplexer",
+  "version": "1.0.0",
+  "description": "Video Multiplexer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishnu D",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "shelljs": "^0.8.5"
+  }
+}

@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+
+# Files to prevent
+_source/*
+!_source/.gitkeep
+
+_destination/*
+!_destination/.gitkeep
